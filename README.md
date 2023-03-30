@@ -1,6 +1,9 @@
-step 1 :- Hit below command to install the dependency 
+step 1 :- Hit below command to install the dependency
+ 
 => yarn
-setp 2 : - exectue code by
+
+step 2 : - Exectue code by
+
 => yarn start
 
 Desktop View :-
